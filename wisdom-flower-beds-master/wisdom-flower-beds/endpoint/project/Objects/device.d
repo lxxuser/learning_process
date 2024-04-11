@@ -1,0 +1,10 @@
+.\objects\device.o: C:\Keil_v5\ARM\PACK\RealThread\RT-Thread\3.1.5\components\device\device.c
+.\objects\device.o: C:\Keil_v5\ARM\PACK\RealThread\RT-Thread\3.1.5\include\rtthread.h
+.\objects\device.o: .\RTE\RTOS\rtconfig.h
+.\objects\device.o: .\RTE\RTOS\finsh_config.h
+.\objects\device.o: C:\Keil_v5\ARM\PACK\RealThread\RT-Thread\3.1.5\include\rtdebug.h
+.\objects\device.o: C:\Keil_v5\ARM\PACK\RealThread\RT-Thread\3.1.5\include\rtdef.h
+.\objects\device.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\device.o: C:\Keil_v5\ARM\PACK\RealThread\RT-Thread\3.1.5\include\rtservice.h
+.\objects\device.o: C:\Keil_v5\ARM\PACK\RealThread\RT-Thread\3.1.5\components\finsh\finsh_api.h
+.\objects\device.o: C:\Keil_v5\ARM\PACK\RealThread\RT-Thread\3.1.5\components\finsh\finsh_config.h
